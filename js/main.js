@@ -1,4 +1,6 @@
 
+
+// Cia dvimaciai masyvai, o ne vienmaciai!
 // ------ 1 uzduotis
 console.log("--------- 1 uzduotis ---------");
 
